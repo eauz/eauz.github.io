@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Photos</title>
+    <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html</link>
+    <description>A bit of exploring...</description>
+    <item>
+      <title>IMG_0599</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html#0</link>
+      <guid isPermaLink="false">fe40fa21-9578-48bf-abe4-7ca73d6e62e4</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0599/IMG_0599.jpg" length="143776" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0599/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0599/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0599/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0599&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_0605</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html#1</link>
+      <guid isPermaLink="false">1b174892-ef09-4c6f-80fb-7563645566c4</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0605/IMG_0605.jpg" length="203329" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0605/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0605/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0605/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0605&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_0612</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html#2</link>
+      <guid isPermaLink="false">c36be32a-3521-4aec-bfe8-a35d0f9c724e</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0612/IMG_0612.jpg" length="74593" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0612/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0612/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0612/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0612&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_0619</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0619/IMG_0619.MOV</link>
+      <guid isPermaLink="false">fc6ab5c3-7ee6-4729-bf49-64f6e565a54b</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0619/IMG_0619.MOV" length="16600196" type="video/quicktime"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0619/thumb.jpg</iphoto:thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0619&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+      <iweb:movieParams>{&quot;movieLoop&quot;: &quot;SFDMovieNoLoop&quot;, &quot;movieStartTime&quot;: 0, &quot;movieShowController&quot;: true, &quot;movieEndPoster&quot;: 1, &quot;moviePoster&quot;: 0, &quot;movieEndTime&quot;: 1, &quot;movieSoundVolume&quot;: 1, &quot;movieDuration&quot;: 7.338333333333333, &quot;movieAutoPlay&quot;: false}</iweb:movieParams>
+    </item>
+    <item>
+      <title>IMG_0620</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html#4</link>
+      <guid isPermaLink="false">b26de8da-fd64-4724-a984-e25455c964b2</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0620/IMG_0620.jpg" length="188208" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0620/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0620/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0620/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0620&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_0624</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html#5</link>
+      <guid isPermaLink="false">2bbbea2e-8f84-461f-88af-8a7d73042742</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0624/IMG_0624.jpg" length="175478" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0624/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0624/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0624/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0624&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_0633</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html#6</link>
+      <guid isPermaLink="false">c164ed3f-8834-49c8-89cb-5b0a958ff3d9</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0633/IMG_0633.jpg" length="153955" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0633/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0633/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0633/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0633&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_0634</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html#7</link>
+      <guid isPermaLink="false">7f5e6bea-cafc-47b1-8eda-d51863b87843</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0634/IMG_0634.jpg" length="89008" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0634/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0634/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0634/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0634&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_0635</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html#8</link>
+      <guid isPermaLink="false">76f05a40-6faf-472f-953b-0efe91dae319</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0635/IMG_0635.jpg" length="132423" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0635/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0635/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0635/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0635&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_0636</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html#9</link>
+      <guid isPermaLink="false">55e6d703-6869-4447-8241-97d6032c6826</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0636/IMG_0636.jpg" length="156986" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0636/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0636/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0636/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0636&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_0613</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html#10</link>
+      <guid isPermaLink="false">12f83e30-c268-4d42-a907-b67b149fc4ad</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0613/IMG_0613.jpg" length="137657" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0613/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0613/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0613/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0613&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_0734</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html#11</link>
+      <guid isPermaLink="false">42acd240-99a3-441e-9a7e-a1838b60e3f0</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0734/IMG_0734.jpg" length="106696" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0734/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0734/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek_files/Media/IMG_0734/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0734&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

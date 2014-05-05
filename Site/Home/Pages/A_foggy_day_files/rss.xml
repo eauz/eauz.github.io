@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Photos</title>
+    <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/A_foggy_day.html</link>
+    <description>At home and at work.</description>
+    <item>
+      <title>IMG_0873</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/A_foggy_day.html#0</link>
+      <guid isPermaLink="false">028936e2-b181-4d51-80cd-c618d18f5c1b</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/A_foggy_day_files/Media/IMG_0873/IMG_0873.jpg" length="134226" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/A_foggy_day_files/Media/IMG_0873/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/A_foggy_day_files/Media/IMG_0873/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/A_foggy_day_files/Media/IMG_0873/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0873&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_0875</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/A_foggy_day.html#1</link>
+      <guid isPermaLink="false">921f704d-5b55-40e9-bfe2-b037a55a932e</guid>
+      <enclosure url="file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/A_foggy_day_files/Media/IMG_0875/IMG_0875.jpg" length="44820" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/A_foggy_day_files/Media/IMG_0875/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/A_foggy_day_files/Media/IMG_0875/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/A_foggy_day_files/Media/IMG_0875/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_165_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_0875&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

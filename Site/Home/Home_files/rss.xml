@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Albums</title>
+    <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Home.html</link>
+    <description>My Albums</description>
+    <item>
+      <title>Lyrebirds in the backyard</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Lyrebirds_in_the_backyard.html</link>
+      <guid isPermaLink="false">82b00ad9-bf55-4434-a266-9c3f77d1f220</guid>
+    </item>
+    <item>
+      <title>A foggy day</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/A_foggy_day.html</link>
+      <guid isPermaLink="false">df680642-61cd-4661-abe8-3c686e16c5a8</guid>
+    </item>
+    <item>
+      <title>Cowan Creek</title>
+      <link>file://localhost/Users/eulevik/iweb-site/Site/Home/Pages/Cowan_Creek.html</link>
+      <guid isPermaLink="false">6c913614-64f4-46c2-a5b2-c5f152271f16</guid>
+    </item>
+  </channel>
+</rss>
